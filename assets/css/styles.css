@@ -41,3 +41,8 @@
     padding-right: 15px;
     margin: auto 0px;
 }
+
+a:hover{
+    cursor: pointer;
+    color: rgb(7, 94, 255);
+}
