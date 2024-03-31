@@ -1,5 +1,6 @@
-.fondo{
-    background-color: rgb(185, 185, 185);
+.fondo_letra{
+    font-family: sans-serif;
+    background-color: hsl(0, 0%, 73%);
 }
 
 .cuerpo_centrado h1, h2, h3, h4{
@@ -20,16 +21,23 @@
     list-style: none;
     text-align: left;
     font-size: 20px;
-
 }
 
-.imagenes img, a{
+.imagenes img{
     width: 150px;
     padding: 10px;
-    margin: auto 20px;
+    margin: auto 10px;
+}
+
+.imagenes_fichas img{
+    width: 300px;
+    padding: auto;
+    margin: 10px;
+
 }
 
 .direcciones a{
     color: rgb(3, 3, 255);
+    padding-right: 15px;
+    margin: auto 0px;
 }
-
