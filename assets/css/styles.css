@@ -1,0 +1,32 @@
+.fondo{
+    background-color: rgb(185, 185, 185);
+}
+
+.cuerpo_centrado h1, h2, h3, h4{
+    text-align: center;    
+    padding: 5px;
+    background-color: rgb(218, 218, 218);
+    border-radius: 2rem;
+    margin: 5px;
+}
+
+.description_medio{
+    font-size: 20px;
+    text-align: center;
+    margin: 30px auto;
+}
+
+.ul li{
+    list-style: none;
+    text-align: left;
+    font-size: 20px;
+
+}
+
+.imagenes img{
+    width: 180px;
+    padding: 5px;
+    margin-right: 20px;
+}
+
+
