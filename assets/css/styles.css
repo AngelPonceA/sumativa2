@@ -1,12 +1,11 @@
 .fondo_letra{
     font-family: sans-serif;
-    background-color: hsl(0, 0%, 73%);
+    background-color: hsl(0, 0%, 0%);
 }
 
 .cuerpo_centrado h1, h2, h3, h4{
     text-align: center;    
     padding: 5px;
-    background-color: rgb(218, 218, 218);
     border-radius: 2rem;
     margin: 5px;
 }
@@ -40,6 +39,7 @@
     color: rgb(3, 3, 255);
     padding-right: 15px;
     margin: auto 0px;
+    text-align: left;
 }
 
 a:hover{
